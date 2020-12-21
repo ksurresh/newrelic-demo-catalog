@@ -5,7 +5,7 @@ Telco Lite is a mock telecom business that maintains an eCommerce website for it
 * [Use New Relic to diagnose problems in Acme Telco Lite](https://developer.newrelic.com/automate-workflows/diagnose-problems) 
  
 ## Configurations
-| AWS | Azure | GCP |
-|---|---|---|
+| AWS | Azure | GCP | AWS - SK |
+|---|---|---|---|
 | [telcolite.aws.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.aws.json) | [telcolite.azure.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.azure.json) | [telcolite.gcp.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.gcp.json) |
 
