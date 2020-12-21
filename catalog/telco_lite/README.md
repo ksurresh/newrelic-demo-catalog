@@ -7,5 +7,6 @@ Telco Lite is a mock telecom business that maintains an eCommerce website for it
 ## Configurations
 | AWS | Azure | GCP | AWS - SK |
 |---|---|---|---|
-| [telcolite.aws.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.aws.json) | [telcolite.azure.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.azure.json) | [telcolite.gcp.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.gcp.json) |
+| [telcolite.aws.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.aws.json) | [telcolite.azure.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.azure.json) | [telcolite.gcp.json](https://raw.githubusercontent.com/newrelic/demo-catalog/main/catalog/telco_lite/telcolite.gcp.json) |  [telcolitesk.aws.json](https://raw.githubusercontent.com/ksurresh/newrelic-demo-catalog/main/catalog/telco_lite/telcolitesk.aws.json) 
+
 
